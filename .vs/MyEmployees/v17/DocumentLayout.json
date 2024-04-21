@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Semester 4\\C# \u0026 .NET\\Assignment1\\Assignment1_Amin_Rasoul\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F49E13E-628B-4CCB-83E9-9B4AE58F1F2A}|Assignment1_Amin_Rasoul\\MainApp.csproj|c:\\semester 4\\c# \u0026 .net\\assignment1\\assignment1_amin_rasoul\\assignment1_amin_rasoul\\commissionemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F49E13E-628B-4CCB-83E9-9B4AE58F1F2A}|Assignment1_Amin_Rasoul\\MainApp.csproj|solutionrelative:assignment1_amin_rasoul\\commissionemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F49E13E-628B-4CCB-83E9-9B4AE58F1F2A}|Assignment1_Amin_Rasoul\\MainApp.csproj|c:\\semester 4\\c# \u0026 .net\\assignment1\\assignment1_amin_rasoul\\assignment1_amin_rasoul\\salariedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F49E13E-628B-4CCB-83E9-9B4AE58F1F2A}|Assignment1_Amin_Rasoul\\MainApp.csproj|solutionrelative:assignment1_amin_rasoul\\salariedemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F49E13E-628B-4CCB-83E9-9B4AE58F1F2A}|Assignment1_Amin_Rasoul\\MainApp.csproj|c:\\semester 4\\c# \u0026 .net\\assignment1\\assignment1_amin_rasoul\\assignment1_amin_rasoul\\salarypluscommissionemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F49E13E-628B-4CCB-83E9-9B4AE58F1F2A}|Assignment1_Amin_Rasoul\\MainApp.csproj|solutionrelative:assignment1_amin_rasoul\\salarypluscommissionemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F49E13E-628B-4CCB-83E9-9B4AE58F1F2A}|Assignment1_Amin_Rasoul\\MainApp.csproj|c:\\semester 4\\c# \u0026 .net\\assignment1\\assignment1_amin_rasoul\\assignment1_amin_rasoul\\employeemodification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F49E13E-628B-4CCB-83E9-9B4AE58F1F2A}|Assignment1_Amin_Rasoul\\MainApp.csproj|solutionrelative:assignment1_amin_rasoul\\employeemodification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F49E13E-628B-4CCB-83E9-9B4AE58F1F2A}|Assignment1_Amin_Rasoul\\MainApp.csproj|c:\\semester 4\\c# \u0026 .net\\assignment1\\assignment1_amin_rasoul\\assignment1_amin_rasoul\\mainapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0F49E13E-628B-4CCB-83E9-9B4AE58F1F2A}|Assignment1_Amin_Rasoul\\MainApp.csproj|solutionrelative:assignment1_amin_rasoul\\mainapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F49E13E-628B-4CCB-83E9-9B4AE58F1F2A}|Assignment1_Amin_Rasoul\\MainApp.csproj|c:\\semester 4\\c# \u0026 .net\\assignment1\\assignment1_amin_rasoul\\assignment1_amin_rasoul\\hourlyemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F49E13E-628B-4CCB-83E9-9B4AE58F1F2A}|Assignment1_Amin_Rasoul\\MainApp.csproj|solutionrelative:assignment1_amin_rasoul\\hourlyemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F49E13E-628B-4CCB-83E9-9B4AE58F1F2A}|Assignment1_Amin_Rasoul\\MainApp.csproj|c:\\semester 4\\c# \u0026 .net\\assignment1\\assignment1_amin_rasoul\\assignment1_amin_rasoul\\employeetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F49E13E-628B-4CCB-83E9-9B4AE58F1F2A}|Assignment1_Amin_Rasoul\\MainApp.csproj|solutionrelative:assignment1_amin_rasoul\\employeetype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F49E13E-628B-4CCB-83E9-9B4AE58F1F2A}|Assignment1_Amin_Rasoul\\MainApp.csproj|c:\\semester 4\\c# \u0026 .net\\assignment1\\assignment1_amin_rasoul\\assignment1_amin_rasoul\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F49E13E-628B-4CCB-83E9-9B4AE58F1F2A}|Assignment1_Amin_Rasoul\\MainApp.csproj|solutionrelative:assignment1_amin_rasoul\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F49E13E-628B-4CCB-83E9-9B4AE58F1F2A}|Assignment1_Amin_Rasoul\\MainApp.csproj|c:\\semester 4\\c# \u0026 .net\\assignment1\\assignment1_amin_rasoul\\assignment1_amin_rasoul\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F49E13E-628B-4CCB-83E9-9B4AE58F1F2A}|Assignment1_Amin_Rasoul\\MainApp.csproj|solutionrelative:assignment1_amin_rasoul\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 332,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SalaryPlusCommissionEmployee.cs",
+              "DocumentMoniker": "C:\\Semester 4\\C# \u0026 .NET\\Assignment1\\Assignment1_Amin_Rasoul\\Assignment1_Amin_Rasoul\\SalaryPlusCommissionEmployee.cs",
+              "RelativeDocumentMoniker": "Assignment1_Amin_Rasoul\\SalaryPlusCommissionEmployee.cs",
+              "ToolTip": "C:\\Semester 4\\C# \u0026 .NET\\Assignment1\\Assignment1_Amin_Rasoul\\Assignment1_Amin_Rasoul\\SalaryPlusCommissionEmployee.cs",
+              "RelativeToolTip": "Assignment1_Amin_Rasoul\\SalaryPlusCommissionEmployee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-21T19:05:33.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainApp.csproj",
+              "DocumentMoniker": "C:\\Semester 4\\C# \u0026 .NET\\Assignment1\\Assignment1_Amin_Rasoul\\Assignment1_Amin_Rasoul\\MainApp.csproj",
+              "RelativeDocumentMoniker": "Assignment1_Amin_Rasoul\\MainApp.csproj",
+              "ToolTip": "C:\\Semester 4\\C# \u0026 .NET\\Assignment1\\Assignment1_Amin_Rasoul\\Assignment1_Amin_Rasoul\\MainApp.csproj",
+              "RelativeToolTip": "Assignment1_Amin_Rasoul\\MainApp.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-21T18:52:59.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CommissionEmployee.cs",
+              "DocumentMoniker": "C:\\Semester 4\\C# \u0026 .NET\\Assignment1\\Assignment1_Amin_Rasoul\\Assignment1_Amin_Rasoul\\CommissionEmployee.cs",
+              "RelativeDocumentMoniker": "Assignment1_Amin_Rasoul\\CommissionEmployee.cs",
+              "ToolTip": "C:\\Semester 4\\C# \u0026 .NET\\Assignment1\\Assignment1_Amin_Rasoul\\Assignment1_Amin_Rasoul\\CommissionEmployee.cs",
+              "RelativeToolTip": "Assignment1_Amin_Rasoul\\CommissionEmployee.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAwDEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T20:22:40.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SalariedEmployee.cs",
+              "DocumentMoniker": "C:\\Semester 4\\C# \u0026 .NET\\Assignment1\\Assignment1_Amin_Rasoul\\Assignment1_Amin_Rasoul\\SalariedEmployee.cs",
+              "RelativeDocumentMoniker": "Assignment1_Amin_Rasoul\\SalariedEmployee.cs",
+              "ToolTip": "C:\\Semester 4\\C# \u0026 .NET\\Assignment1\\Assignment1_Amin_Rasoul\\Assignment1_Amin_Rasoul\\SalariedEmployee.cs",
+              "RelativeToolTip": "Assignment1_Amin_Rasoul\\SalariedEmployee.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAqwBgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T20:21:52.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HourlyEmployee.cs",
+              "DocumentMoniker": "C:\\Semester 4\\C# \u0026 .NET\\Assignment1\\Assignment1_Amin_Rasoul\\Assignment1_Amin_Rasoul\\HourlyEmployee.cs",
+              "RelativeDocumentMoniker": "Assignment1_Amin_Rasoul\\HourlyEmployee.cs",
+              "ToolTip": "C:\\Semester 4\\C# \u0026 .NET\\Assignment1\\Assignment1_Amin_Rasoul\\Assignment1_Amin_Rasoul\\HourlyEmployee.cs",
+              "RelativeToolTip": "Assignment1_Amin_Rasoul\\HourlyEmployee.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAA8wBQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T20:21:15.288Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeType.cs",
+              "DocumentMoniker": "C:\\Semester 4\\C# \u0026 .NET\\Assignment1\\Assignment1_Amin_Rasoul\\Assignment1_Amin_Rasoul\\EmployeeType.cs",
+              "RelativeDocumentMoniker": "Assignment1_Amin_Rasoul\\EmployeeType.cs",
+              "ToolTip": "C:\\Semester 4\\C# \u0026 .NET\\Assignment1\\Assignment1_Amin_Rasoul\\Assignment1_Amin_Rasoul\\EmployeeType.cs",
+              "RelativeToolTip": "Assignment1_Amin_Rasoul\\EmployeeType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T20:20:56.172Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Semester 4\\C# \u0026 .NET\\Assignment1\\Assignment1_Amin_Rasoul\\Assignment1_Amin_Rasoul\\Employee.cs",
+              "RelativeDocumentMoniker": "Assignment1_Amin_Rasoul\\Employee.cs",
+              "ToolTip": "C:\\Semester 4\\C# \u0026 .NET\\Assignment1\\Assignment1_Amin_Rasoul\\Assignment1_Amin_Rasoul\\Employee.cs",
+              "RelativeToolTip": "Assignment1_Amin_Rasoul\\Employee.cs",
+              "ViewState": "AQIAACwAAAAAAAAAAAAAwDkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-21T20:19:11.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeModification.cs",
+              "DocumentMoniker": "C:\\Semester 4\\C# \u0026 .NET\\Assignment1\\Assignment1_Amin_Rasoul\\Assignment1_Amin_Rasoul\\EmployeeModification.cs",
+              "RelativeDocumentMoniker": "Assignment1_Amin_Rasoul\\EmployeeModification.cs",
+              "ToolTip": "C:\\Semester 4\\C# \u0026 .NET\\Assignment1\\Assignment1_Amin_Rasoul\\Assignment1_Amin_Rasoul\\EmployeeModification.cs",
+              "RelativeToolTip": "Assignment1_Amin_Rasoul\\EmployeeModification.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T21:54:12.211Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Semester 4\\C# \u0026 .NET\\Assignment1\\Assignment1_Amin_Rasoul\\Assignment1_Amin_Rasoul\\Program.cs",
+              "RelativeDocumentMoniker": "Assignment1_Amin_Rasoul\\Program.cs",
+              "ToolTip": "C:\\Semester 4\\C# \u0026 .NET\\Assignment1\\Assignment1_Amin_Rasoul\\Assignment1_Amin_Rasoul\\Program.cs",
+              "RelativeToolTip": "Assignment1_Amin_Rasoul\\Program.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-06T21:51:56.87Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
